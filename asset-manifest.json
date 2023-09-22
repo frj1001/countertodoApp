@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/countertodoApp/static/css/main.a9bd16f3.css",
+    "main.js": "/countertodoApp/static/js/main.330bd096.js",
+    "static/js/787.5863b875.chunk.js": "/countertodoApp/static/js/787.5863b875.chunk.js",
+    "index.html": "/countertodoApp/index.html",
+    "main.a9bd16f3.css.map": "/countertodoApp/static/css/main.a9bd16f3.css.map",
+    "main.330bd096.js.map": "/countertodoApp/static/js/main.330bd096.js.map",
+    "787.5863b875.chunk.js.map": "/countertodoApp/static/js/787.5863b875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9bd16f3.css",
+    "static/js/main.330bd096.js"
+  ]
+}
